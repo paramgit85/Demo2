@@ -11,15 +11,12 @@ namespace ConsoleAppDemo2
         static void Main(string[] args)
         {
 
-            
-
-
-            static void Sum(int first, int second)
+            static void Sum(int first,int second)
             {
+                int first = 5;
+                int second = 10;
                 int sum = first + second;
             }
-
-
 
         }
     }
